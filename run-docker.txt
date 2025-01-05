@@ -1,0 +1,8 @@
+docker build -t lim-mem-example limited-memory-example/
+
+docker run -it --rm \
+    --memory="500m" \
+    --memory-swap="500m" \
+    -p 8889:8889 \
+    -v ~/Documents/learning/Intro\ to\ polars/limited-memory-example:/home/jovyan/work \
+    lim-mem-example
