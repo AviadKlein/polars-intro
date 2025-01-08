@@ -1,6 +1,6 @@
 # Intro into `polars`
 
-## Example on NYV cab data
+## Example on NYC cab data
 
 Download the data from: https://www.kaggle.com/competitions/nyc-taxi-trip-duration
 
