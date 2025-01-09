@@ -2,7 +2,7 @@
 
 ## Example on NYC cab data
 
-Download the data from: https://www.kaggle.com/competitions/nyc-taxi-trip-duration
+Download the data from: [https://www.kaggle.com/competitions/nyc-taxi-trip-duration](https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data) Jan 2015 file
 
 The main notebook is `intro to polars.ipynb`.
 Written on `Python 3.12.4`.
